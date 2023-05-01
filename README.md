@@ -58,13 +58,14 @@
 - [Add a book]
 - [Delete a book]
 - [local storage]
+- [USING ES6]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-https://aj193.github.io/Awesome-books/
+https://aj193.github.io/Awesome-books-ES6/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -98,7 +99,7 @@ Clone this repository to your desired folder:
 ```cd my-folder```
 
 
-```git clone https://github.com/AJ193/Awesome-books.git```
+```git clone https://github.com/AJ193/Awesome-books-ES6.git```
 
 
 ### Install
@@ -115,7 +116,7 @@ Install this project with:
 ```cd my-folder```
 
 
-```git clone https://github.com/AJ193/Awesome-books.git```
+```git clone https://github.com/AJ193/Awesome-books-ES6.git```
 
 
 ### Install
@@ -163,13 +164,6 @@ You can deploy this project using:
 - GitHub: [@githubhandle](https://github.com/AJ193)
 - Twitter: [@twitterhandle](https://twitter.com/GhulamShabbir59)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ghulam-shabbir-225264247/)
-
-👤 **Theodore Osei Asimeng**
-
-- GitHub: [@githubhandle](https://github.com/Theodoraldo)
-- Twitter: [@twitterhandle](https://twitter.com/AsimengOse33947)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/theodore-asimeng-osei-80075125b/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
